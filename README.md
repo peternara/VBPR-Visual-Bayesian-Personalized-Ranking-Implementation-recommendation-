@@ -9,6 +9,5 @@ Visual Bayesian Personalized Ranking 2016
 ## 完整可运行code
 见3/demo
 
-## 参考code
-https://github.com/DSE-capstone-sharknado/AdvancedBPR
+
 
