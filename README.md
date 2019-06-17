@@ -7,7 +7,7 @@ Visual Bayesian Personalized Ranking 2016
 👉[VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11914/11576)
 
 ## 完整可运行code
-见3/demo
+见vbpr/2/demo
 
 
 
