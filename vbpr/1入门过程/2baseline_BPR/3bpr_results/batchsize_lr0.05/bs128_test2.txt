@@ -1,0 +1,352 @@
+备注：修改参数：BatchSize:128, LR:0.05, RR:0.001
+
+('max_u_id:', 943)
+('max_i_idL', 1682)
+WARNING:tensorflow:From /usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From <ipython-input-2-5e6ea640728f>:92: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+WARNING:tensorflow:From /usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+('epoch:', 1)
+('bpr_loss:', 0.7008831199228013)
+_train_op
+('test_loss: ', 0.7558355, 'test_auc: ', 0.5077840388095262)
+
+('epoch:', 2)
+('bpr_loss:', 0.7002117233673175)
+_train_op
+('test_loss: ', 0.754904, 'test_auc: ', 0.5081278754721424)
+
+('epoch:', 3)
+('bpr_loss:', 0.6995677045641673)
+_train_op
+('test_loss: ', 0.7539196, 'test_auc: ', 0.5089424717070166)
+
+('epoch:', 4)
+('bpr_loss:', 0.6989123971730763)
+_train_op
+('test_loss: ', 0.75342345, 'test_auc: ', 0.5105695369158855)
+
+('epoch:', 5)
+('bpr_loss:', 0.698168904990238)
+_train_op
+('test_loss: ', 0.75303936, 'test_auc: ', 0.5128775522091119)
+
+('epoch:', 6)
+('bpr_loss:', 0.6974901859701622)
+_train_op
+('test_loss: ', 0.7527533, 'test_auc: ', 0.5162833014048571)
+
+('epoch:', 7)
+('bpr_loss:', 0.6967376767098605)
+_train_op
+('test_loss: ', 0.75276154, 'test_auc: ', 0.5214767274741836)
+
+('epoch:', 8)
+('bpr_loss:', 0.6958012575506091)
+_train_op
+('test_loss: ', 0.7526462, 'test_auc: ', 0.5290973004399852)
+
+('epoch:', 9)
+('bpr_loss:', 0.6947375029581836)
+_train_op
+('test_loss: ', 0.752453, 'test_auc: ', 0.539585459699004)
+
+('epoch:', 10)
+('bpr_loss:', 0.6934875942368726)
+_train_op
+('test_loss: ', 0.7525795, 'test_auc: ', 0.5532982251621695)
+
+('epoch:', 11)
+('bpr_loss:', 0.6918416007634853)
+_train_op
+('test_loss: ', 0.7526591, 'test_auc: ', 0.5705606610877667)
+
+('epoch:', 12)
+('bpr_loss:', 0.6896277432394972)
+_train_op
+('test_loss: ', 0.7529635, 'test_auc: ', 0.592150387452216)
+
+('epoch:', 13)
+('bpr_loss:', 0.6867500165267619)
+_train_op
+('test_loss: ', 0.7533042, 'test_auc: ', 0.6163720235498035)
+
+('epoch:', 14)
+('bpr_loss:', 0.6829912362157834)
+_train_op
+('test_loss: ', 0.7539935, 'test_auc: ', 0.6424251873362073)
+
+('epoch:', 15)
+('bpr_loss:', 0.6780256103529743)
+_train_op
+('test_loss: ', 0.75447804, 'test_auc: ', 0.6685841273518762)
+
+('epoch:', 16)
+('bpr_loss:', 0.6713322515987497)
+_train_op
+('test_loss: ', 0.75530577, 'test_auc: ', 0.6948636459542956)
+
+('epoch:', 17)
+('bpr_loss:', 0.6629232538178054)
+_train_op
+('test_loss: ', 0.75613576, 'test_auc: ', 0.7199081650390443)
+
+('epoch:', 18)
+('bpr_loss:', 0.6524487913406045)
+_train_op
+('test_loss: ', 0.7579359, 'test_auc: ', 0.7434480079925745)
+
+('epoch:', 19)
+('bpr_loss:', 0.6397257682489714)
+_train_op
+('test_loss: ', 0.75927305, 'test_auc: ', 0.7655377013397463)
+
+('epoch:', 20)
+('bpr_loss:', 0.624877725071515)
+_train_op
+('test_loss: ', 0.7612638, 'test_auc: ', 0.7849081264559895)
+
+('epoch:', 21)
+('bpr_loss:', 0.6087044378380032)
+_train_op
+('test_loss: ', 0.7632857, 'test_auc: ', 0.8011113817681097)
+
+('epoch:', 22)
+('bpr_loss:', 0.5915967527211344)
+_train_op
+('test_loss: ', 0.7653143, 'test_auc: ', 0.8145493005006352)
+
+('epoch:', 23)
+('bpr_loss:', 0.5743431600481779)
+_train_op
+('test_loss: ', 0.76808333, 'test_auc: ', 0.8262343967658362)
+
+('epoch:', 24)
+('bpr_loss:', 0.5564763038533763)
+_train_op
+('test_loss: ', 0.7701345, 'test_auc: ', 0.836132309516084)
+
+('epoch:', 25)
+('bpr_loss:', 0.5389391339512009)
+_train_op
+('test_loss: ', 0.7718622, 'test_auc: ', 0.8442769173346558)
+
+('epoch:', 26)
+('bpr_loss:', 0.5223507996462994)
+_train_op
+('test_loss: ', 0.77303606, 'test_auc: ', 0.8501499197171746)
+
+('epoch:', 27)
+('bpr_loss:', 0.5070611517067837)
+_train_op
+('test_loss: ', 0.7745086, 'test_auc: ', 0.8550286573105544)
+
+('epoch:', 28)
+('bpr_loss:', 0.4919412548922615)
+_train_op
+('test_loss: ', 0.776397, 'test_auc: ', 0.8591925552377057)
+
+('epoch:', 29)
+('bpr_loss:', 0.4780570180219611)
+_train_op
+('test_loss: ', 0.77751416, 'test_auc: ', 0.862422551895311)
+
+('epoch:', 30)
+('bpr_loss:', 0.46533432974293604)
+_train_op
+('test_loss: ', 0.77915967, 'test_auc: ', 0.8650751385056589)
+
+('epoch:', 31)
+('bpr_loss:', 0.45262806520244553)
+_train_op
+('test_loss: ', 0.77982664, 'test_auc: ', 0.8673668679764469)
+
+('epoch:', 32)
+('bpr_loss:', 0.44170141716698785)
+_train_op
+('test_loss: ', 0.78093445, 'test_auc: ', 0.8693187437163447)
+
+('epoch:', 33)
+('bpr_loss:', 0.43155011242569674)
+_train_op
+('test_loss: ', 0.78250325, 'test_auc: ', 0.8712457947700639)
+
+('epoch:', 34)
+('bpr_loss:', 0.42226531876876705)
+_train_op
+('test_loss: ', 0.78483593, 'test_auc: ', 0.8728925299016939)
+
+('epoch:', 35)
+('bpr_loss:', 0.41365739281093106)
+_train_op
+('test_loss: ', 0.7868263, 'test_auc: ', 0.8743202920849035)
+
+('epoch:', 36)
+('bpr_loss:', 0.4060460117953519)
+_train_op
+('test_loss: ', 0.7890136, 'test_auc: ', 0.8756828699567111)
+
+('epoch:', 37)
+('bpr_loss:', 0.39872974060754535)
+_train_op
+('test_loss: ', 0.7930765, 'test_auc: ', 0.8769715308672961)
+
+('epoch:', 38)
+('bpr_loss:', 0.39187747951292184)
+_train_op
+('test_loss: ', 0.7969909, 'test_auc: ', 0.8781354980778309)
+
+('epoch:', 39)
+('bpr_loss:', 0.3860632194402481)
+_train_op
+('test_loss: ', 0.80054724, 'test_auc: ', 0.8793680231271594)
+
+('epoch:', 40)
+('bpr_loss:', 0.3813861749319583)
+_train_op
+('test_loss: ', 0.80641407, 'test_auc: ', 0.8804984058975415)
+
+('epoch:', 41)
+('bpr_loss:', 0.37600931756542694)
+_train_op
+('test_loss: ', 0.81064016, 'test_auc: ', 0.8815132245294994)
+
+('epoch:', 42)
+('bpr_loss:', 0.37164443647248624)
+_train_op
+('test_loss: ', 0.8144063, 'test_auc: ', 0.8825246905898112)
+
+('epoch:', 43)
+('bpr_loss:', 0.36716168180516445)
+_train_op
+('test_loss: ', 0.81994075, 'test_auc: ', 0.8835382961676963)
+
+('epoch:', 44)
+('bpr_loss:', 0.3626550362274203)
+_train_op
+('test_loss: ', 0.825412, 'test_auc: ', 0.884554327166346)
+
+('epoch:', 45)
+('bpr_loss:', 0.35922439278638657)
+_train_op
+('test_loss: ', 0.83146, 'test_auc: ', 0.885550848705139)
+
+('epoch:', 46)
+('bpr_loss:', 0.3563142187906804)
+_train_op
+('test_loss: ', 0.83723295, 'test_auc: ', 0.8864648541868175)
+
+('epoch:', 47)
+('bpr_loss:', 0.3536622672587496)
+_train_op
+('test_loss: ', 0.84363025, 'test_auc: ', 0.8873965549633334)
+
+('epoch:', 48)
+('bpr_loss:', 0.35006947562345914)
+_train_op
+('test_loss: ', 0.8479129, 'test_auc: ', 0.8882974072706156)
+
+('epoch:', 49)
+('bpr_loss:', 0.34844300848385124)
+_train_op
+('test_loss: ', 0.8549243, 'test_auc: ', 0.8891631982517394)
+
+('epoch:', 50)
+('bpr_loss:', 0.34533700902573133)
+_train_op
+('test_loss: ', 0.8598697, 'test_auc: ', 0.8899921750292292)
+
+('epoch:', 51)
+('bpr_loss:', 0.34271798923590774)
+_train_op
+('test_loss: ', 0.86822164, 'test_auc: ', 0.890870823010344)
+
+('epoch:', 52)
+('bpr_loss:', 0.34040977548458357)
+_train_op
+('test_loss: ', 0.8746842, 'test_auc: ', 0.8917269682944263)
+
+('epoch:', 53)
+('bpr_loss:', 0.33892587018051157)
+_train_op
+('test_loss: ', 0.8820789, 'test_auc: ', 0.8925535505121991)
+
+('epoch:', 54)
+('bpr_loss:', 0.3361480049364184)
+_train_op
+('test_loss: ', 0.8900994, 'test_auc: ', 0.8933077776925056)
+
+('epoch:', 55)
+('bpr_loss:', 0.3340381677388239)
+_train_op
+('test_loss: ', 0.8979882, 'test_auc: ', 0.8940292256365778)
+
+('epoch:', 56)
+('bpr_loss:', 0.33229274564288713)
+_train_op
+('test_loss: ', 0.9050124, 'test_auc: ', 0.8947530027838426)
+
+('epoch:', 57)
+('bpr_loss:', 0.3311679219395954)
+_train_op
+('test_loss: ', 0.91188943, 'test_auc: ', 0.8954513986394489)
+
+('epoch:', 58)
+('bpr_loss:', 0.32842810775106207)
+_train_op
+('test_loss: ', 0.91957396, 'test_auc: ', 0.8961503405680965)
+
+('epoch:', 59)
+('bpr_loss:', 0.32774724442736103)
+_train_op
+('test_loss: ', 0.92784953, 'test_auc: ', 0.8968930958453191)
+
+('epoch:', 60)
+('bpr_loss:', 0.3252367863692768)
+_train_op
+('test_loss: ', 0.93376076, 'test_auc: ', 0.8975527889410296)
+
+('epoch:', 61)
+('bpr_loss:', 0.3245810883346618)
+_train_op
+('test_loss: ', 0.9422173, 'test_auc: ', 0.8982058020697735)
+
+('epoch:', 62)
+('bpr_loss:', 0.3226230962291005)
+_train_op
+('test_loss: ', 0.94760865, 'test_auc: ', 0.8989255126854079)
+
+('epoch:', 63)
+('bpr_loss:', 0.3219838636705794)
+_train_op
+('test_loss: ', 0.9551173, 'test_auc: ', 0.8995538350048525)
+
+('epoch:', 64)
+('bpr_loss:', 0.32038169615768053)
+_train_op
+('test_loss: ', 0.9641682, 'test_auc: ', 0.9001610915819509)
+
+('epoch:', 65)
+('bpr_loss:', 0.31958685024520544)
+_train_op
+('test_loss: ', 0.9694154, 'test_auc: ', 0.9007456398520655)
+
+('epoch:', 66)
+('bpr_loss:', 0.3172654780859374)
+_train_op
+('test_loss: ', 0.9764944, 'test_auc: ', 0.9013134454508348)
+
+('epoch:', 67)
+('bpr_loss:', 0.31631290661940503)
+_train_op
+('test_loss: ', 0.98386955, 'test_auc: ', 0.9018482265209785)
+
+('epoch:', 68)
+('bpr_loss:', 0.31508722657810617)
+_train_op
+('test_loss: ', 0.9903791, 'test_auc: ', 0.9023821034635617)

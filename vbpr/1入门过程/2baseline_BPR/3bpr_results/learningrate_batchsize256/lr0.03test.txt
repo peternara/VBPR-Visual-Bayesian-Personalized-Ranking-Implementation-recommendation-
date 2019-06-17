@@ -1,0 +1,715 @@
+BatchSize:256, LR:0.03, RR:0.001
+
+('max_u_id:', 943)
+('max_i_idL', 1682)
+WARNING:tensorflow:From /usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From <ipython-input-3-b5a231ee5d83>:92: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+WARNING:tensorflow:From /usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+('epoch:', 1)
+('bpr_loss:', 0.7085059588016045)
+_train_op
+('test_loss: ', 0.7941742, 'test_auc: ', 0.5007362333516475)
+
+('epoch:', 2)
+('bpr_loss:', 0.7078042358821763)
+_train_op
+('test_loss: ', 0.7929845, 'test_auc: ', 0.5008430146708026)
+
+('epoch:', 3)
+('bpr_loss:', 0.7071616264027724)
+_train_op
+('test_loss: ', 0.7918855, 'test_auc: ', 0.5010248389359749)
+
+('epoch:', 4)
+('bpr_loss:', 0.7064755497443292)
+_train_op
+('test_loss: ', 0.79070574, 'test_auc: ', 0.5012309694171845)
+
+('epoch:', 5)
+('bpr_loss:', 0.705893126266626)
+_train_op
+('test_loss: ', 0.7898244, 'test_auc: ', 0.5017513516457793)
+
+('epoch:', 6)
+('bpr_loss:', 0.70537017333219)
+_train_op
+('test_loss: ', 0.78887063, 'test_auc: ', 0.5023086873201154)
+
+('epoch:', 7)
+('bpr_loss:', 0.7047714213176498)
+_train_op
+('test_loss: ', 0.78803873, 'test_auc: ', 0.5033276854477988)
+
+('epoch:', 8)
+('bpr_loss:', 0.7042291403460631)
+_train_op
+('test_loss: ', 0.7871474, 'test_auc: ', 0.5045572698115315)
+
+('epoch:', 9)
+('bpr_loss:', 0.703697789631073)
+_train_op
+('test_loss: ', 0.78633183, 'test_auc: ', 0.5062419369719006)
+
+('epoch:', 10)
+('bpr_loss:', 0.7031562341811968)
+_train_op
+('test_loss: ', 0.7857727, 'test_auc: ', 0.5082721568299369)
+
+('epoch:', 11)
+('bpr_loss:', 0.7025984148426899)
+_train_op
+('test_loss: ', 0.78505844, 'test_auc: ', 0.5107466952503913)
+
+('epoch:', 12)
+('bpr_loss:', 0.7020650387263389)
+_train_op
+('test_loss: ', 0.78449255, 'test_auc: ', 0.5138464204671724)
+
+('epoch:', 13)
+('bpr_loss:', 0.7015596060162426)
+_train_op
+('test_loss: ', 0.78397346, 'test_auc: ', 0.5178287824001538)
+
+('epoch:', 14)
+('bpr_loss:', 0.700940962456827)
+_train_op
+('test_loss: ', 0.78354776, 'test_auc: ', 0.522833979937958)
+
+('epoch:', 15)
+('bpr_loss:', 0.7003186390647461)
+_train_op
+('test_loss: ', 0.78308713, 'test_auc: ', 0.5289225948894)
+
+('epoch:', 16)
+('bpr_loss:', 0.6996456243606013)
+_train_op
+('test_loss: ', 0.7826769, 'test_auc: ', 0.5361036354602312)
+
+('epoch:', 17)
+('bpr_loss:', 0.6988802712711006)
+_train_op
+('test_loss: ', 0.7824446, 'test_auc: ', 0.5448589798617093)
+
+('epoch:', 18)
+('bpr_loss:', 0.6981106873964591)
+_train_op
+('test_loss: ', 0.78220636, 'test_auc: ', 0.5550685688302174)
+
+('epoch:', 19)
+('bpr_loss:', 0.6972312247259518)
+_train_op
+('test_loss: ', 0.78196603, 'test_auc: ', 0.5669699472366325)
+
+('epoch:', 20)
+('bpr_loss:', 0.6961968469247743)
+_train_op
+('test_loss: ', 0.7820264, 'test_auc: ', 0.5802902354121066)
+
+('epoch:', 21)
+('bpr_loss:', 0.6950573783131642)
+_train_op
+('test_loss: ', 0.7821301, 'test_auc: ', 0.5953555503837401)
+
+('epoch:', 22)
+('bpr_loss:', 0.6936950277843388)
+_train_op
+('test_loss: ', 0.78237927, 'test_auc: ', 0.6120941141603736)
+
+('epoch:', 23)
+('bpr_loss:', 0.6922167616263464)
+_train_op
+('test_loss: ', 0.7827265, 'test_auc: ', 0.6299113981969074)
+
+('epoch:', 24)
+('bpr_loss:', 0.6903940736353219)
+_train_op
+('test_loss: ', 0.78323376, 'test_auc: ', 0.6483255567704772)
+
+('epoch:', 25)
+('bpr_loss:', 0.6884080679995176)
+_train_op
+('test_loss: ', 0.78395206, 'test_auc: ', 0.6668338620577088)
+
+('epoch:', 26)
+('bpr_loss:', 0.6859352535833285)
+_train_op
+('test_loss: ', 0.78491205, 'test_auc: ', 0.6850323246975656)
+
+('epoch:', 27)
+('bpr_loss:', 0.6831317364537589)
+_train_op
+('test_loss: ', 0.78612095, 'test_auc: ', 0.7028586738382407)
+
+('epoch:', 28)
+('bpr_loss:', 0.6799788112448654)
+_train_op
+('test_loss: ', 0.7873422, 'test_auc: ', 0.7199645834399164)
+
+('epoch:', 29)
+('bpr_loss:', 0.6763139603423652)
+_train_op
+('test_loss: ', 0.7891115, 'test_auc: ', 0.7360341732646017)
+
+('epoch:', 30)
+('bpr_loss:', 0.6720544621333477)
+_train_op
+('test_loss: ', 0.7910782, 'test_auc: ', 0.750712507010081)
+
+('epoch:', 31)
+('bpr_loss:', 0.6672276311050441)
+_train_op
+('test_loss: ', 0.7935602, 'test_auc: ', 0.7639205533661015)
+
+('epoch:', 32)
+('bpr_loss:', 0.661856606999119)
+_train_op
+('test_loss: ', 0.79654706, 'test_auc: ', 0.7759068658222836)
+
+('epoch:', 33)
+('bpr_loss:', 0.6558756489924465)
+_train_op
+('test_loss: ', 0.7996274, 'test_auc: ', 0.7867497588396231)
+
+('epoch:', 34)
+('bpr_loss:', 0.649251951518405)
+_train_op
+('test_loss: ', 0.8033984, 'test_auc: ', 0.7964869518719875)
+
+('epoch:', 35)
+('bpr_loss:', 0.6422983160327019)
+_train_op
+('test_loss: ', 0.8075148, 'test_auc: ', 0.8055491238952963)
+
+('epoch:', 36)
+('bpr_loss:', 0.6345888347977708)
+_train_op
+('test_loss: ', 0.81239676, 'test_auc: ', 0.8137729104632)
+
+('epoch:', 37)
+('bpr_loss:', 0.6268163389696029)
+_train_op
+('test_loss: ', 0.81765723, 'test_auc: ', 0.8209800888880029)
+
+('epoch:', 38)
+('bpr_loss:', 0.6183681994420239)
+_train_op
+('test_loss: ', 0.8235073, 'test_auc: ', 0.8273286436524435)
+
+('epoch:', 39)
+('bpr_loss:', 0.6098410734464512)
+_train_op
+('test_loss: ', 0.82997704, 'test_auc: ', 0.8325889967641821)
+
+('epoch:', 40)
+('bpr_loss:', 0.6008825875396943)
+_train_op
+('test_loss: ', 0.83722323, 'test_auc: ', 0.8372463401931551)
+
+('epoch:', 41)
+('bpr_loss:', 0.5922130961064268)
+_train_op
+('test_loss: ', 0.84526724, 'test_auc: ', 0.841347035321134)
+
+('epoch:', 42)
+('bpr_loss:', 0.5832529564003011)
+_train_op
+('test_loss: ', 0.8537527, 'test_auc: ', 0.8448556631644629)
+
+('epoch:', 43)
+('bpr_loss:', 0.5745523636711671)
+_train_op
+('test_loss: ', 0.86237407, 'test_auc: ', 0.8480468089930557)
+
+('epoch:', 44)
+('bpr_loss:', 0.5657257874576205)
+_train_op
+('test_loss: ', 0.87166035, 'test_auc: ', 0.850769178891107)
+
+('epoch:', 45)
+('bpr_loss:', 0.5570962558176117)
+_train_op
+('test_loss: ', 0.88201135, 'test_auc: ', 0.8532719626221046)
+
+('epoch:', 46)
+('bpr_loss:', 0.5489996935778032)
+_train_op
+('test_loss: ', 0.89304364, 'test_auc: ', 0.8554481541574217)
+
+('epoch:', 47)
+('bpr_loss:', 0.5407051185794677)
+_train_op
+('test_loss: ', 0.90500206, 'test_auc: ', 0.8573202442324475)
+
+('epoch:', 48)
+('bpr_loss:', 0.5327349674715999)
+_train_op
+('test_loss: ', 0.91731834, 'test_auc: ', 0.8588749979884874)
+
+('epoch:', 49)
+('bpr_loss:', 0.5254992835222184)
+_train_op
+('test_loss: ', 0.92972404, 'test_auc: ', 0.8603026433749082)
+
+('epoch:', 50)
+('bpr_loss:', 0.5180435623972863)
+_train_op
+('test_loss: ', 0.9442541, 'test_auc: ', 0.8615410008027257)
+
+('epoch:', 51)
+('bpr_loss:', 0.5111872217468701)
+_train_op
+('test_loss: ', 0.95800173, 'test_auc: ', 0.8626805000502936)
+
+('epoch:', 52)
+('bpr_loss:', 0.5048035111611403)
+_train_op
+('test_loss: ', 0.9717377, 'test_auc: ', 0.8636529814039109)
+
+('epoch:', 53)
+('bpr_loss:', 0.4978202444287533)
+_train_op
+('test_loss: ', 0.98639995, 'test_auc: ', 0.8645310163140407)
+
+('epoch:', 54)
+('bpr_loss:', 0.49215940836907196)
+_train_op
+('test_loss: ', 1.0021228, 'test_auc: ', 0.8653303320259883)
+
+('epoch:', 55)
+('bpr_loss:', 0.4866243694681815)
+_train_op
+('test_loss: ', 1.0186845, 'test_auc: ', 0.8660644615031502)
+
+('epoch:', 56)
+('bpr_loss:', 0.48092747708157696)
+_train_op
+('test_loss: ', 1.034246, 'test_auc: ', 0.8667754988113965)
+
+('epoch:', 57)
+('bpr_loss:', 0.47562469126200957)
+_train_op
+('test_loss: ', 1.0507376, 'test_auc: ', 0.8674424579199147)
+
+('epoch:', 58)
+('bpr_loss:', 0.47122624087247833)
+_train_op
+('test_loss: ', 1.0667071, 'test_auc: ', 0.8681333531079417)
+
+('epoch:', 59)
+('bpr_loss:', 0.4663179140015587)
+_train_op
+('test_loss: ', 1.083284, 'test_auc: ', 0.8687278929404512)
+
+('epoch:', 60)
+('bpr_loss:', 0.4621321108310693)
+_train_op
+('test_loss: ', 1.1001279, 'test_auc: ', 0.8693801570448665)
+
+('epoch:', 61)
+('bpr_loss:', 0.45808808634604997)
+_train_op
+('test_loss: ', 1.1148659, 'test_auc: ', 0.8699890034597205)
+
+('epoch:', 62)
+('bpr_loss:', 0.45408509787642304)
+_train_op
+('test_loss: ', 1.1315027, 'test_auc: ', 0.8705520440665323)
+
+('epoch:', 63)
+('bpr_loss:', 0.45101583830879605)
+_train_op
+('test_loss: ', 1.148615, 'test_auc: ', 0.8711366906785826)
+
+('epoch:', 64)
+('bpr_loss:', 0.44741484698688394)
+_train_op
+('test_loss: ', 1.1664051, 'test_auc: ', 0.8716785183624777)
+
+('epoch:', 65)
+('bpr_loss:', 0.44399133012828457)
+_train_op
+('test_loss: ', 1.1818087, 'test_auc: ', 0.8722036915079692)
+
+('epoch:', 66)
+('bpr_loss:', 0.4409848329877348)
+_train_op
+('test_loss: ', 1.1983922, 'test_auc: ', 0.8726410193769765)
+
+('epoch:', 67)
+('bpr_loss:', 0.43843931230956923)
+_train_op
+('test_loss: ', 1.2148618, 'test_auc: ', 0.8731357130999277)
+
+('epoch:', 68)
+('bpr_loss:', 0.43561837000235437)
+_train_op
+('test_loss: ', 1.2306527, 'test_auc: ', 0.8736222916374562)
+
+('epoch:', 69)
+('bpr_loss:', 0.4329671326232543)
+_train_op
+('test_loss: ', 1.2473654, 'test_auc: ', 0.8740816439658973)
+
+('epoch:', 70)
+('bpr_loss:', 0.4306414581866569)
+_train_op
+('test_loss: ', 1.263754, 'test_auc: ', 0.8745501405013328)
+
+('epoch:', 71)
+('bpr_loss:', 0.4278754625982894)
+_train_op
+('test_loss: ', 1.2786217, 'test_auc: ', 0.8749332064160266)
+
+('epoch:', 72)
+('bpr_loss:', 0.42651470299123834)
+_train_op
+('test_loss: ', 1.2942084, 'test_auc: ', 0.8753444149710973)
+
+('epoch:', 73)
+('bpr_loss:', 0.4242832881315967)
+_train_op
+('test_loss: ', 1.3095113, 'test_auc: ', 0.8757669836132612)
+
+('epoch:', 74)
+('bpr_loss:', 0.4225853471594778)
+_train_op
+('test_loss: ', 1.3251522, 'test_auc: ', 0.8761840228421943)
+
+('epoch:', 75)
+('bpr_loss:', 0.4207436418767022)
+_train_op
+('test_loss: ', 1.3383958, 'test_auc: ', 0.8765917933138121)
+
+('epoch:', 76)
+('bpr_loss:', 0.41871669782378906)
+_train_op
+('test_loss: ', 1.3527949, 'test_auc: ', 0.8769879171768972)
+
+('epoch:', 77)
+('bpr_loss:', 0.41794669681798224)
+_train_op
+('test_loss: ', 1.3675237, 'test_auc: ', 0.8773611166562849)
+
+('epoch:', 78)
+('bpr_loss:', 0.4161410895162259)
+_train_op
+('test_loss: ', 1.3827454, 'test_auc: ', 0.877736733955739)
+
+('epoch:', 79)
+('bpr_loss:', 0.41450110632292053)
+_train_op
+('test_loss: ', 1.3965977, 'test_auc: ', 0.8781349846474976)
+
+('epoch:', 80)
+('bpr_loss:', 0.41266403594215434)
+_train_op
+('test_loss: ', 1.4116569, 'test_auc: ', 0.8785174962247733)
+
+('epoch:', 81)
+('bpr_loss:', 0.4109901047022397)
+_train_op
+('test_loss: ', 1.4277699, 'test_auc: ', 0.8789067389018842)
+
+('epoch:', 82)
+('bpr_loss:', 0.410064220285387)
+_train_op
+('test_loss: ', 1.442418, 'test_auc: ', 0.8793140349797075)
+
+('epoch:', 83)
+('bpr_loss:', 0.40893929840255006)
+_train_op
+('test_loss: ', 1.4544054, 'test_auc: ', 0.879740053572527)
+
+('epoch:', 84)
+('bpr_loss:', 0.40808429472278085)
+_train_op
+('test_loss: ', 1.4677052, 'test_auc: ', 0.8801064605756503)
+
+('epoch:', 85)
+('bpr_loss:', 0.40728201216210075)
+_train_op
+('test_loss: ', 1.4795537, 'test_auc: ', 0.8805143413857842)
+
+('epoch:', 86)
+('bpr_loss:', 0.40590278569114857)
+_train_op
+('test_loss: ', 1.4900548, 'test_auc: ', 0.8809053516914142)
+
+('epoch:', 87)
+('bpr_loss:', 0.40475435684647265)
+_train_op
+('test_loss: ', 1.5016987, 'test_auc: ', 0.8813071133310127)
+
+('epoch:', 88)
+('bpr_loss:', 0.40392145862648976)
+_train_op
+('test_loss: ', 1.5141236, 'test_auc: ', 0.881679134397972)
+
+('epoch:', 89)
+('bpr_loss:', 0.40284745015127943)
+_train_op
+('test_loss: ', 1.5270367, 'test_auc: ', 0.8820480292668904)
+
+('epoch:', 90)
+('bpr_loss:', 0.40227790922373624)
+_train_op
+('test_loss: ', 1.5372934, 'test_auc: ', 0.8824682613935476)
+
+('epoch:', 91)
+('bpr_loss:', 0.40189275366112004)
+_train_op
+('test_loss: ', 1.5473175, 'test_auc: ', 0.8828449131859701)
+
+('epoch:', 92)
+('bpr_loss:', 0.40047691015153675)
+_train_op
+('test_loss: ', 1.5560733, 'test_auc: ', 0.8832524762521493)
+
+('epoch:', 93)
+('bpr_loss:', 0.39961976650524766)
+_train_op
+('test_loss: ', 1.5673616, 'test_auc: ', 0.8836112366130029)
+
+('epoch:', 94)
+('bpr_loss:', 0.3982937108292344)
+_train_op
+('test_loss: ', 1.577446, 'test_auc: ', 0.8840321333267087)
+
+('epoch:', 95)
+('bpr_loss:', 0.3981101076873357)
+_train_op
+('test_loss: ', 1.5862708, 'test_auc: ', 0.8844173673386285)
+
+('epoch:', 96)
+('bpr_loss:', 0.39688128513153803)
+_train_op
+('test_loss: ', 1.5968256, 'test_auc: ', 0.8848376410874051)
+
+('epoch:', 97)
+('bpr_loss:', 0.3960012924697404)
+_train_op
+('test_loss: ', 1.6057724, 'test_auc: ', 0.8852064805312728)
+
+('epoch:', 98)
+('bpr_loss:', 0.39524445274539605)
+_train_op
+('test_loss: ', 1.6163232, 'test_auc: ', 0.8855883991967962)
+
+('epoch:', 99)
+('bpr_loss:', 0.39461688506267)
+_train_op
+('test_loss: ', 1.6285075, 'test_auc: ', 0.8859366520702017)
+
+('epoch:', 100)
+('bpr_loss:', 0.3940366898913173)
+_train_op
+('test_loss: ', 1.6354572, 'test_auc: ', 0.8862636179158568)
+
+('epoch:', 101)
+('bpr_loss:', 0.39313346816435124)
+_train_op
+('test_loss: ', 1.6469865, 'test_auc: ', 0.88664044874344)
+
+('epoch:', 102)
+('bpr_loss:', 0.39249062652610783)
+_train_op
+('test_loss: ', 1.655132, 'test_auc: ', 0.887016656930032)
+
+('epoch:', 103)
+('bpr_loss:', 0.3919106891487188)
+_train_op
+('test_loss: ', 1.6632509, 'test_auc: ', 0.8873502517223737)
+
+('epoch:', 104)
+('bpr_loss:', 0.3914683008222586)
+_train_op
+('test_loss: ', 1.6701052, 'test_auc: ', 0.8877014829871005)
+
+('epoch:', 105)
+('bpr_loss:', 0.3906748253992973)
+_train_op
+('test_loss: ', 1.6780821, 'test_auc: ', 0.8880682779142232)
+
+('epoch:', 106)
+('bpr_loss:', 0.39011046456131704)
+_train_op
+('test_loss: ', 1.6867483, 'test_auc: ', 0.8884193852607039)
+
+('epoch:', 107)
+('bpr_loss:', 0.389687095869539)
+_train_op
+('test_loss: ', 1.6947165, 'test_auc: ', 0.8887837018071025)
+
+('epoch:', 108)
+('bpr_loss:', 0.38877695484098423)
+_train_op
+('test_loss: ', 1.7031388, 'test_auc: ', 0.8891425057376556)
+
+('epoch:', 109)
+('bpr_loss:', 0.3888601783240502)
+_train_op
+('test_loss: ', 1.7096744, 'test_auc: ', 0.8894804027938893)
+
+('epoch:', 110)
+('bpr_loss:', 0.3881819698543018)
+_train_op
+('test_loss: ', 1.7169857, 'test_auc: ', 0.8898024786330863)
+
+('epoch:', 111)
+('bpr_loss:', 0.38777323662459695)
+_train_op
+('test_loss: ', 1.7255673, 'test_auc: ', 0.8901647860668244)
+
+('epoch:', 112)
+('bpr_loss:', 0.387592189769598)
+_train_op
+('test_loss: ', 1.7330239, 'test_auc: ', 0.8904965736864733)
+
+('epoch:', 113)
+('bpr_loss:', 0.3868976848784579)
+_train_op
+('test_loss: ', 1.7404226, 'test_auc: ', 0.8908566677052042)
+
+('epoch:', 114)
+('bpr_loss:', 0.3863162893334683)
+_train_op
+('test_loss: ', 1.7449262, 'test_auc: ', 0.8911552296068483)
+
+('epoch:', 115)
+('bpr_loss:', 0.38545319398633715)
+_train_op
+('test_loss: ', 1.7519765, 'test_auc: ', 0.8914818180248947)
+
+('epoch:', 116)
+('bpr_loss:', 0.3851647197806756)
+_train_op
+('test_loss: ', 1.759475, 'test_auc: ', 0.8917980369255499)
+
+('epoch:', 117)
+('bpr_loss:', 0.38467285168793325)
+_train_op
+('test_loss: ', 1.7647381, 'test_auc: ', 0.892077000726761)
+
+('epoch:', 118)
+('bpr_loss:', 0.3844862838498734)
+_train_op
+('test_loss: ', 1.7734666, 'test_auc: ', 0.8923990970451784)
+
+('epoch:', 119)
+('bpr_loss:', 0.3841028609414605)
+_train_op
+('test_loss: ', 1.7802361, 'test_auc: ', 0.8927213155752401)
+
+('epoch:', 120)
+('bpr_loss:', 0.38375408624047924)
+_train_op
+('test_loss: ', 1.7845571, 'test_auc: ', 0.8930722907786025)
+
+('epoch:', 121)
+('bpr_loss:', 0.3829507229983461)
+_train_op
+('test_loss: ', 1.7905285, 'test_auc: ', 0.8933244559870418)
+
+('epoch:', 122)
+('bpr_loss:', 0.3828560866208333)
+_train_op
+('test_loss: ', 1.7948403, 'test_auc: ', 0.8936371730911138)
+
+('epoch:', 123)
+('bpr_loss:', 0.381788867834831)
+_train_op
+('test_loss: ', 1.8017545, 'test_auc: ', 0.893946411832772)
+
+('epoch:', 124)
+('bpr_loss:', 0.38199456988465524)
+_train_op
+('test_loss: ', 1.8064756, 'test_auc: ', 0.8942388565312135)
+
+('epoch:', 125)
+('bpr_loss:', 0.3819203828723222)
+_train_op
+('test_loss: ', 1.8107469, 'test_auc: ', 0.8945402554843737)
+
+('epoch:', 126)
+('bpr_loss:', 0.38125851760508656)
+_train_op
+('test_loss: ', 1.8154609, 'test_auc: ', 0.8948406018356251)
+
+('epoch:', 127)
+('bpr_loss:', 0.3809544700196944)
+_train_op
+('test_loss: ', 1.819802, 'test_auc: ', 0.8951628892539288)
+
+('epoch:', 128)
+('bpr_loss:', 0.3802228255447423)
+_train_op
+('test_loss: ', 1.8256304, 'test_auc: ', 0.8953862712340289)
+
+('epoch:', 129)
+('bpr_loss:', 0.37973266299854974)
+_train_op
+('test_loss: ', 1.8308289, 'test_auc: ', 0.8956609740774301)
+
+('epoch:', 130)
+('bpr_loss:', 0.3796517261387611)
+_train_op
+('test_loss: ', 1.8346803, 'test_auc: ', 0.8959861293766936)
+
+
+KeyboardInterruptTraceback (most recent call last)
+<ipython-input-3-b5a231ee5d83> in <module>()
+    117             uij = generate_train_batch(user_ratings,user_ratings_test,item_count)
+    118             _bprloss,_train_op = sess.run([bprloss,train_op],
+--> 119                                           feed_dict={u:uij[:,0],i:uij[:,1],j:uij[:,2]})
+    120 
+    121             _batch_bprloss += _bprloss
+
+/usr/local/lib/python2.7/dist-packages/tensorflow/python/client/session.pyc in run(self, fetches, feed_dict, options, run_metadata)
+    927     try:
+    928       result = self._run(None, fetches, feed_dict, options_ptr,
+--> 929                          run_metadata_ptr)
+    930       if run_metadata:
+    931         proto_data = tf_session.TF_GetBuffer(run_metadata_ptr)
+
+/usr/local/lib/python2.7/dist-packages/tensorflow/python/client/session.pyc in _run(self, handle, fetches, feed_dict, options, run_metadata)
+   1150     if final_fetches or final_targets or (handle and feed_dict_tensor):
+   1151       results = self._do_run(handle, final_targets, final_fetches,
+-> 1152                              feed_dict_tensor, options, run_metadata)
+   1153     else:
+   1154       results = []
+
+/usr/local/lib/python2.7/dist-packages/tensorflow/python/client/session.pyc in _do_run(self, handle, target_list, fetch_list, feed_dict, options, run_metadata)
+   1326     if handle is None:
+   1327       return self._do_call(_run_fn, feeds, fetches, targets, options,
+-> 1328                            run_metadata)
+   1329     else:
+   1330       return self._do_call(_prun_fn, handle, feeds, fetches)
+
+/usr/local/lib/python2.7/dist-packages/tensorflow/python/client/session.pyc in _do_call(self, fn, *args)
+   1332   def _do_call(self, fn, *args):
+   1333     try:
+-> 1334       return fn(*args)
+   1335     except errors.OpError as e:
+   1336       message = compat.as_text(e.message)
+
+/usr/local/lib/python2.7/dist-packages/tensorflow/python/client/session.pyc in _run_fn(feed_dict, fetch_list, target_list, options, run_metadata)
+   1317       self._extend_graph()
+   1318       return self._call_tf_sessionrun(
+-> 1319           options, feed_dict, fetch_list, target_list, run_metadata)
+   1320 
+   1321     def _prun_fn(handle, feed_dict, fetch_list):
+
+/usr/local/lib/python2.7/dist-packages/tensorflow/python/client/session.pyc in _call_tf_sessionrun(self, options, feed_dict, fetch_list, target_list, run_metadata)
+   1405     return tf_session.TF_SessionRun_wrapper(
+   1406         self._session, options, feed_dict, fetch_list, target_list,
+-> 1407         run_metadata)
+   1408 
+   1409   def _call_tf_sessionprun(self, handle, feed_dict, fetch_list):
+
+KeyboardInterrupt: 

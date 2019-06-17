@@ -1,0 +1,104 @@
+epoch: 1
+bpr_loss: 0.721532812665095
+_train_op
+test_loss:  0.78240955 test_auc:  0.49027843771439167
+
+epoch: 2
+bpr_loss: 0.7166690634331433
+_train_op
+test_loss:  0.7677699 test_auc:  0.4922750724206974
+
+epoch: 3
+bpr_loss: 0.7129985053411935
+_train_op
+test_loss:  0.75751007 test_auc:  0.4961347515973305
+
+epoch: 4
+bpr_loss: 0.710075208176897
+_train_op
+test_loss:  0.7495881 test_auc:  0.503879651937373
+
+epoch: 5
+bpr_loss: 0.707603427607385
+_train_op
+test_loss:  0.74350244 test_auc:  0.5177435871309474
+
+epoch: 6
+bpr_loss: 0.7053383161220868
+_train_op
+test_loss:  0.73793715 test_auc:  0.5410995848174676
+
+epoch: 7
+bpr_loss: 0.7030819748539666
+_train_op
+test_loss:  0.73318154 test_auc:  0.5764280103743551
+
+epoch: 8
+bpr_loss: 0.700601924142973
+_train_op
+test_loss:  0.7282301 test_auc:  0.6244088445117545
+
+epoch: 9
+bpr_loss: 0.6975401100408414
+_train_op
+test_loss:  0.72275025 test_auc:  0.6778689956614473
+
+epoch: 10
+bpr_loss: 0.6934284925293889
+_train_op
+test_loss:  0.7164507 test_auc:  0.7275890098555825
+
+epoch: 11
+bpr_loss: 0.6876446974232188
+_train_op
+test_loss:  0.7080801 test_auc:  0.7717332168900006
+
+epoch: 12
+bpr_loss: 0.6794274419540166
+_train_op
+test_loss:  0.6987591 test_auc:  0.8078770024883675
+
+epoch: 13
+bpr_loss: 0.6682540202264811
+_train_op
+test_loss:  0.68784606 test_auc:  0.8346422526862942
+
+epoch: 14
+bpr_loss: 0.6540062194062272
+_train_op
+test_loss:  0.6784431 test_auc:  0.8521042845526973
+
+epoch: 15
+bpr_loss: 0.6372054206487965
+_train_op
+test_loss:  0.67290854 test_auc:  0.861931189351487
+
+epoch: 16
+bpr_loss: 0.6190215423121932
+_train_op
+test_loss:  0.6737937 test_auc:  0.8677766855711301
+
+epoch: 17
+bpr_loss: 0.6008593850694768
+_train_op
+test_loss:  0.68238086 test_auc:  0.8716182079904912
+
+epoch: 18
+bpr_loss: 0.5832301188907901
+_train_op
+test_loss:  0.695704 test_auc:  0.8744119856771267
+
+epoch: 19
+bpr_loss: 0.5672622674416247
+_train_op
+test_loss:  0.7099792 test_auc:  0.8766788980179918
+
+epoch: 20
+bpr_loss: 0.5523615691108116
+_train_op
+test_loss:  0.72558725 test_auc:  0.878534450269801
+
+epoch: 21
+bpr_loss: 0.5402294395207929
+_train_op
+test_loss:  0.7387705 test_auc:  0.8802489966849381
