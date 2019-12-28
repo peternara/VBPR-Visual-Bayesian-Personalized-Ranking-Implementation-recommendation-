@@ -1,4 +1,4 @@
-# VisualBPR: visual bayesian personalized ranking implementation
+## VisualBPR: visual bayesian personalized ranking implementation
 [**other implemented baselines**] BPR, HybirdBPR  
 [**running dataset**] [Amazon-books](http://jmcauley.ucsd.edu/data/amazon/), movielens-10k  
 [**tools**] tensorflow 1.x, Jupyter Notebook
